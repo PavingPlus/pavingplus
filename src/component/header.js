@@ -15,98 +15,26 @@ export default function header() {
                                             <div className="header-logo">
                                                 <a href="index.html">
                                                     <figure>
-                                                        <img src="assets/images/Builty-Logo.svg" alt="logoo" />
+                                                        <img src="assets/images/Builty-Logod.svg" alt="logoo" />
                                                     </figure>
                                                 </a>
                                             </div>
                                             <div className="nav-bar">
                                                 <ul>
-                                                    <li className="menu-item-has-children">
-                                                        <a href="javascript:void(0)">Home</a>
-                                                        <ul className="sub-menu">
-                                                            <li><a href="index.html">Home One</a></li>
-                                                            <li><a href="index-2.html">Home Two</a></li>
-                                                            <li><a href="index-3.html">Home Three</a></li>
-                                                        </ul>
-                                                    </li>
-                                                    <li className="menu-item-has-children">
-                                                        <a href="javascript:void(0)">About</a>
-                                                        <ul className="sub-menu">
-                                                            <li><a href="about.html">About Company</a></li>
-                                                            <li><a href="core-values.html">Core Values</a></li>
-                                                            <li><a href="leadership.html">Leadership</a></li>
-                                                            <li><a href="history.html">History</a></li>
-                                                        </ul>
-                                                    </li>
-                                                    <li className="menu-item-has-children">
-                                                        <a href="JavaScript:void(0)">Shop</a>
-                                                        <ul className="sub-menu">
-                                                            <li className="menu-item-has-children">
-                                                                <a href="javascript:void(0)">Our Products</a>
-                                                                <ul className="sub-menu">
-                                                                    <li>
-                                                                        <a href="product-list.html">Product List</a>
-                                                                    </li>
-                                                                    <li>
-                                                                        <a href="product-grid.html">Product Grid</a>
-                                                                    </li>
-                                                                </ul>
-                                                            </li>
-                                                            <li>
-                                                                <a href="product-detail.html">Product Details</a>
-                                                            </li>
-                                                            <li><a href="cart.html">Shop Cart</a></li>
-                                                            <li><a href="checkout.html">Cart Checkout</a></li>
-                                                        </ul>
-                                                    </li>
-                                                    <li className="menu-item-has-children">
-                                                        <a href="JavaScript:void(0)">Pages</a>
-                                                        <ul className="sub-menu">
-                                                            <li className="menu-item-has-children">
-                                                                <a href="javascript:void(0)">Services</a>
-                                                                <ul className="sub-menu">
-                                                                    <li><a href="services.html">what we do</a></li>
-                                                                    <li>
-                                                                        <a href="service-detail.html">Service Detail</a>
-                                                                    </li>
-                                                                </ul>
-                                                            </li>
-                                                            <li className="menu-item-has-children">
-                                                                <a href="javascript:void(0)">Projects</a>
-                                                                <ul className="sub-menu">
-                                                                    <li>
-                                                                        <a href="our-projects-1.html">Our Projects One</a>
-                                                                    </li>
-                                                                    <li>
-                                                                        <a href="our-projects-2.html">Our Projects Two</a>
-                                                                    </li>
-                                                                    <li>
-                                                                        <a href="project-detail.html">Project Detail</a>
-                                                                    </li>
-                                                                </ul>
-                                                            </li>
-                                                            <li className="menu-item-has-children">
-                                                                <a href="javascript:void(0)">Team</a>
-                                                                <ul className="sub-menu">
-                                                                    <li><a href="our-team.html">Our Team</a></li>
-                                                                    <li>
-                                                                        <a href="team-detail.html">Team Detail</a>
-                                                                    </li>
-                                                                </ul>
-                                                            </li>
-                                                            <li><a href="login.html">Login &amp; Register</a></li>
-                                                        </ul>
-                                                    </li>
-                                                    <li className="menu-item-has-children">
-                                                        <a href="javascript:void(0)">News</a>
-                                                        <ul className="sub-menu">
-                                                            <li><a href="our-blog-1.html">Our Blog One</a></li>
-                                                            <li><a href="our-blog-2.html">Our Blog Two</a></li>
-                                                            <li><a href="blog-detail.html">Blog Detail</a></li>
-                                                        </ul>
+                                                    <li>
+                                                        <a href="/">Home</a>
                                                     </li>
                                                     <li>
-                                                        <a href="contact.html">Contact</a>
+                                                        <a href="/">About us</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/">Team</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/">Service</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/">Contact</a>
                                                     </li>
                                                 </ul>
                                                 <div className="extras">
@@ -124,7 +52,7 @@ export default function header() {
                                                             <path className="line line3" d="M 20,70.999954 H 80.000231 C 80.000231,70.999954 94.498839,71.182648 94.532987,33.288669 94.543142,22.019327 90.966081,18.329754 85.259173,18.331003 79.552261,18.332249 75.000211,25.000058 75.000211,25.000058 L 25.000021,74.999942" />
                                                         </svg>
                                                     </a>
-                                                    <a href="tel:+02101283492" className="theme-btn">+021 01283492
+                                                    <a href="tel:+918825217361" className="theme-btn">+91 88252 17361
                                                         <i>
                                                             <svg xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" width={40} height={62} viewBox="0 0 40 62">
                                                                 <defs>
@@ -153,97 +81,38 @@ export default function header() {
                                 </a>
                             </div>
                             <ul>
-                                <li className="menu-item-has-children">
-                                    <a href="javascript:void(0)">Home</a>
-                                    <ul className="sub-menu">
-                                        <li><a href="index.html">Home One</a></li>
-                                        <li><a href="index-2.html">Home Two</a></li>
-                                        <li><a href="index-3.html">Home Three</a></li>
-                                    </ul>
-                                </li>
-                                <li className="menu-item-has-children">
-                                    <a href="javascript:void(0)">About</a>
-                                    <ul className="sub-menu">
-                                        <li><a href="about.html">About Company</a></li>
-                                        <li><a href="core-values.html">Core Values</a></li>
-                                        <li><a href="leadership.html">Leadership</a></li>
-                                        <li><a href="history.html">History</a></li>
-                                    </ul>
-                                </li>
-                                <li className="menu-item-has-children">
-                                    <a href="JavaScript:void(0)">Shop</a>
-                                    <ul className="sub-menu">
-                                        <li className="menu-item-has-children">
-                                            <a href="javascript:void(0)">Our Products</a>
-                                            <ul className="sub-menu">
-                                                <li><a href="product-list.html">Product List</a></li>
-                                                <li><a href="product-grid.html">Product Grid</a></li>
-                                            </ul>
-                                        </li>
-                                        <li><a href="product-detail.html">Product Details</a></li>
-                                        <li><a href="cart.html">Shop Cart</a></li>
-                                        <li><a href="checkout.html">Cart Checkout</a></li>
-                                    </ul>
-                                </li>
-                                <li className="menu-item-has-children">
-                                    <a href="JavaScript:void(0)">Pages</a>
-                                    <ul className="sub-menu">
-                                        <li className="menu-item-has-children">
-                                            <a href="javascript:void(0)">Services</a>
-                                            <ul className="sub-menu">
-                                                <li><a href="services.html">what we do</a></li>
-                                                <li><a href="service-detail.html">Service Detail</a></li>
-                                            </ul>
-                                        </li>
-                                        <li className="menu-item-has-children">
-                                            <a href="javascript:void(0)">Projects</a>
-                                            <ul className="sub-menu">
-                                                <li>
-                                                    <a href="our-projects-1.html">Our Projects One</a>
-                                                </li>
-                                                <li>
-                                                    <a href="our-projects-2.html">Our Projects Two</a>
-                                                </li>
-                                                <li><a href="project-detail.html">Project Detail</a></li>
-                                            </ul>
-                                        </li>
-                                        <li className="menu-item-has-children">
-                                            <a href="javascript:void(0)">Team</a>
-                                            <ul className="sub-menu">
-                                                <li><a href="our-team.html">Our Team</a></li>
-                                                <li><a href="team-detail.html">Team Detail</a></li>
-                                            </ul>
-                                        </li>
-                                        <li><a href="login.html">Login &amp; Register</a></li>
-                                    </ul>
-                                </li>
-                                <li className="menu-item-has-children">
-                                    <a href="javascript:void(0)">News</a>
-                                    <ul className="sub-menu">
-                                        <li><a href="our-blog-1.html">Our Blog One</a></li>
-                                        <li><a href="our-blog-2.html">Our Blog Two</a></li>
-                                        <li><a href="blog-detail.html">Blog Detail</a></li>
-                                    </ul>
+                                <li>
+                                    <a href="/">Home</a>
                                 </li>
                                 <li>
-                                    <a href="contact.html">Contact</a>
+                                    <a href="/">About us</a>
                                 </li>
+                                <li>
+                                    <a href="/">Team</a>
+                                </li>
+                                <li>
+                                    <a href="/">Service</a>
+                                </li>
+                                <li>
+                                    <a href="/">Contact</a>
+                                </li>
+
                             </ul>
                             <a href="JavaScript:void(0)" id="res-cross" />
                         </div>
                         <div className="mobile-nav desktop-menu">
-                            <h2>We Build Building and Great Homes.</h2>
+                            <h2>lorem ipsum dolor sit amet, consectetur adipisicing.</h2>
                             <p className="des">
-                                We successfully cope with tasks of varying complexity, provide
-                                long-term guarantees and regularly master new technologies.
+                            lorem ipsum dolor sit amet, consectetur adipisicing , sed do eiusmod tempor incididunt ut labore
+                            lorem ipsum dolor sit amet, consectetur adipisicing
                             </p>
                             <figure>
                                 <img src="assets/images/desktop-menu-img.jpg" alt="Desktop Menu Image" />
                             </figure>
                             <h3>Get in touch</h3>
-                            <p className="num">(+380) 50 318 47 07</p>
+                            <p className="num"> +91 88252 17361</p>
                             <p className="adrs">
-                                65 Allerton Street 901 N Pitt Str, Suite 170, VA 22314, USA
+                            36/F, Topsia Road, Offbeat CCU, 4th Floor, Room - 405, Kol - 39
                             </p>
                             <div className="social-medias">
                                 <a href="javascript:void(0)">Facebook</a>

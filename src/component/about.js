@@ -20,20 +20,16 @@ export default function about() {
                         <div className="col-lg-6">
                             <div className="about-data-right">
                                 <span>Welcome to Our Company</span>
-                                <h2>Constro Provides a full range of services</h2>
+                                <h2>Paving+ Provides a full range of Brick</h2>
                                 <div className="about-info">
                                     <p>
-                                        We successfully cope with tasks of varying complexity, provide
-                                        long-term guarantees and regularly master new technologies.
-                                        Our portfolio includes dozens of successfully completed
-                                        projects of houses of different storeys, with high–quality
-                                        finishes and good repairs. Building houses is our vocation!
+                                        lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitationem   eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitationem eiusmod tempor incididunt ut labore et dolore magna aliqua.
                                     </p>
                                     <figure>
                                         <img src="assets/images/signature.png" alt="Signature" />
                                     </figure>
-                                    <h3>Walimes Jonnie</h3>
-                                    <h4>Director of Constro Company</h4>
+                                    <h3>Ranjan Kumar Gupta</h3>
+                                    <h4>Founder and CEO</h4>
                                 </div>
                             </div>
                         </div>
@@ -56,7 +52,7 @@ export default function about() {
                         <div className="col-lg-4 col-md-6 col-sm-12">
                             <div className="counter-data upper-space">
                                 <div className="count">
-                                    <span className="counter">300</span><i>People</i>
+                                    <span className="counter">50</span><i>People</i>
                                 </div>
                                 <h4>Employees in current team</h4>
                             </div>
@@ -64,7 +60,7 @@ export default function about() {
                         <div className="col-lg-4 col-md-6 col-sm-12">
                             <div className="counter-data">
                                 <div className="count">
-                                    <span className="counter">21</span>+<i>Locations</i>
+                                    <span className="counter">10</span>+<i>Locations</i>
                                 </div>
                                 <h4>Sites in current development</h4>
                             </div>

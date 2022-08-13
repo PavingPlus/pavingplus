@@ -11,7 +11,7 @@ export default function footer() {
                             <div className="footer-first">
                                 <div className="footer-logo">
                                     <a href="index.html">
-                                        <img src="assets/images/Builty-Logo.svg" alt="Footer Logo" />
+                                        <img src="assets/images/Parvin-Logo.svg" alt="Footer Logo" />
                                     </a>
                                 </div>
                                 <div className="contact-info d-flex-all">

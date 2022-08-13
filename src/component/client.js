@@ -3,51 +3,7 @@ import React from 'react'
 export default function client() {
     return (
         <div>
-            {/* Client Style One Start */}
-            <div className="gap client-style-one">
-                <div className="container">
-                    <div className="row">
-                        <div className="col-lg-12">
-                            <div className="client-slider owl-carousel">
-                                <img className="w-auto m-auto" src="assets/images/client-1.png" alt="client-1" />
-                                <img className="w-auto m-auto" src="assets/images/client-2.png" alt="client-2" />
-                                <img className="w-auto m-auto" src="assets/images/client-3.png" alt="client-3" />
-                                <img className="w-auto m-auto" src="assets/images/client-4.png" alt="client-4" />
-                                <img className="w-auto m-auto" src="assets/images/client-5.png" alt="client-5" />
-                                <img className="w-auto m-auto" src="assets/images/client-1.png" alt="client-1" />
-                                <img className="w-auto m-auto" src="assets/images/client-2.png" alt="client-2" />
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            {/* Client Style One End */}
-            {/* Renovation Start */}
-            <section className="gap renovation">
-                <div className="parallax" style={{ backgroundImage: 'url(assets/images/reno-img.jpg)' }} />
-                <div className="container">
-                    <div className="row">
-                        <div className="col-lg-12">
-                            <div className="reno-data">
-                                <h3>Your Renovation</h3>
-                                <h2>Starts Here</h2>
-                                <p>
-                                    Each of our completed projects comes with a 2-5 year warranty,
-                                    giving you peace of mind knowing that your home’s renovations
-                                    are in good hands.
-                                </p>
-                                <div className="bbtn">
-                                    <figure>
-                                        <img className="w-auto circle-layer" src="assets/images/circle-text.png" alt="Circle Text" />
-                                    </figure>
-                                    <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#exampleModal1"><i className="fa-solid fa-arrow-up-long" /></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            {/* Renovation End */}
+           
             {/* Client Review Style One Start */}
             <section className="gap client-review-style-one">
                 <div className="container">
@@ -181,6 +137,33 @@ export default function client() {
                 </div>
             </section>
             {/* Client Review Style One End */}
+             
+            {/* Renovation Start */}
+            <section className="gap renovation">
+                <div className="parallax" style={{ backgroundImage: 'url(assets/images/reno-img.jpg)' }} />
+                <div className="container">
+                    <div className="row">
+                        <div className="col-lg-12">
+                            <div className="reno-data">
+                                <h3>Your Renovation</h3>
+                                <h2>Starts Here</h2>
+                                <p>
+                                    Each of our completed projects comes with a 2-5 year warranty,
+                                    giving you peace of mind knowing that your home’s renovations
+                                    are in good hands.
+                                </p>
+                                <div className="bbtn">
+                                    <figure>
+                                        <img className="w-auto circle-layer" src="assets/images/circle-text.png" alt="Circle Text" />
+                                    </figure>
+                                    <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#exampleModal1"><i className="fa-solid fa-arrow-up-long" /></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            {/* Renovation End */}
         </div>
 
     )

@@ -10,10 +10,9 @@ export default function Silder() {
                         <div className="f-slider-layer">
                             <img src="assets/images/f-slider-one-1.jpg" alt="Slider 1" />
                             <div className="f-slider-one-data">
-                                <h1>Create the Building You Want Here</h1>
+                                <h1>Lorem ipsum dolor sit amet, consectetur adip </h1>
                                 <p>
-                                    Busico is a construction and architecture environmentally most
-                                    responsible for any kinds of themes.
+                                Lorem ipsum dolor sit amet, consectetur adip Lorem ipsum dolor sit amet, consectetur adip.
                                 </p>
                                 <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#exampleModal" className="theme-btn">Start Consulting<i className="fas fa-angle-double-right" /></a>
                             </div>
@@ -21,21 +20,19 @@ export default function Silder() {
                         <div className="f-slider-layer">
                             <img src="assets/images/project-img-1.jpg" alt="Project Img" />
                             <div className="f-slider-one-data">
-                                <h1>A Better Way To Build Your Dreams</h1>
+                            <h1>Lorem ipsum dolor sit amet, consectetur adip </h1>
                                 <p>
-                                    Busico is a construction and architecture environmentally most
-                                    responsible for any kinds of themes.
+                                Lorem ipsum dolor sit amet, consectetur adip Lorem ipsum dolor sit amet, consectetur adip.
                                 </p>
-                                <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#exampleModal1" className="theme-btn">Estimate Price <i className="fas fa-angle-right" /></a>
+                                <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#exampleModal" className="theme-btn">Estimate Price <i className="fas fa-angle-right" /></a>
                             </div>
                         </div>
                         <div className="f-slider-layer">
                             <img src="assets/images/project-img-2.jpg" alt="Project Img 2" />
                             <div className="f-slider-one-data">
-                                <h1>Build Innovative &amp; Industrial Solutions</h1>
+                            <h1>Lorem ipsum dolor sit amet, consectetur adip </h1>
                                 <p>
-                                    Busico is a construction and architecture environmentally most
-                                    responsible for any kinds of themes.
+                                Lorem ipsum dolor sit amet, consectetur adip Lorem ipsum dolor sit amet, consectetur adip.
                                 </p>
                                 <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#exampleModal" className="theme-btn">Start Consulting <i className="fas fa-angle-double-right" /></a>
                             </div>

@@ -606,7 +606,7 @@
         display: none;
     }
     .header-style-one .desktop-nav {
-        background: black;
+        background: #484848;
         padding: 20px 0;
     }
     .featured-slider-one .f-slider-one-data, .featured-slider-one .owl-item.active .f-slider-one-data {

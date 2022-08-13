@@ -8,7 +8,7 @@ import Team from '../component/team';
 import Client from '../component/client';
 import Footer from '../component/footer';
 
-import Logo from '../assets/images/Builty-Logo-Black-Home.svg';
+import Logo from '../assets/images/Paving-Logo-Black-Home.svg';
 
 export default function Home() {
     return (

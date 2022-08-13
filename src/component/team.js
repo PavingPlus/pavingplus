@@ -3,185 +3,25 @@ import React from 'react'
 export default function team() {
     return (
         <div>
-            {/* Team Style One Start */}
-            <section className="gap team-style-one">
-                <div className="heading-style-2">
-                    <div className="container">
-                        <div className="row align-items-center">
-                            <div className="col-lg-6 col-md-8">
-                                <div className="data">
-                                    <span>Our Skilled Team</span>
-                                    <h2>Meet The Expert Team</h2>
-                                </div>
-                            </div>
-                            <div className="col-lg-6 col-md-4">
-                                <div className="team-slider-nav" />
-                            </div>
-                        </div>
-                    </div>
-                </div>
+           {/* Client Style One Start */}
+           <div className="gap client-style-one">
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-12">
-                            <div className="team-slider owl-carousel">
-                                <div className="team-data">
-                                    <div className="team-image">
-                                        <figure>
-                                            <img src="assets/images/team-3.png" alt="team-3" />
-                                        </figure>
-                                    </div>
-                                    <div className="team-info">
-                                        <h3>Harald Gindl, MBA</h3>
-                                        <p>Head Railway Construction</p>
-                                        <div className="team-social-media">
-                                            <a className="fb icon" href="#">
-                                                <i className="fab fa-facebook-f" />
-                                            </a>
-                                            <a className="tw icon" href="#">
-                                                <i className="fab fa-twitter" />
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div className="team-data">
-                                    <div className="team-image">
-                                        <figure>
-                                            <img src="assets/images/team-1.png" alt="team-1" />
-                                        </figure>
-                                    </div>
-                                    <div className="team-info">
-                                        <h3>Edward Jeffrey</h3>
-                                        <p>Finance Department</p>
-                                        <div className="team-social-media">
-                                            <a className="fb icon" href="#">
-                                                <i className="fab fa-facebook-f" />
-                                            </a>
-                                            <a className="tw icon" href="#">
-                                                <i className="fab fa-twitter" />
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div className="team-data">
-                                    <div className="team-image">
-                                        <figure>
-                                            <img src="assets/images/team-2.png" alt="team-2" />
-                                        </figure>
-                                    </div>
-                                    <div className="team-info">
-                                        <h3>Nicholas Larry</h3>
-                                        <p>Railway Manager</p>
-                                        <div className="team-social-media">
-                                            <a className="fb icon" href="#">
-                                                <i className="fab fa-facebook-f" />
-                                            </a>
-                                            <a className="tw icon" href="#">
-                                                <i className="fab fa-twitter" />
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div className="team-data">
-                                    <div className="team-image">
-                                        <figure>
-                                            <img src="assets/images/team-3.png" alt="team-3" />
-                                        </figure>
-                                    </div>
-                                    <div className="team-info">
-                                        <h3>Stephen</h3>
-                                        <p>Creative Worker</p>
-                                        <div className="team-social-media">
-                                            <a className="fb icon" href="#">
-                                                <i className="fab fa-facebook-f" />
-                                            </a>
-                                            <a className="tw icon" href="#">
-                                                <i className="fab fa-twitter" />
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div className="team-data">
-                                    <div className="team-image">
-                                        <figure>
-                                            <img src="assets/images/team-1.png" alt="team-1" />
-                                        </figure>
-                                    </div>
-                                    <div className="team-info">
-                                        <h3>Eric Scot</h3>
-                                        <p>Cheif Railway Construction</p>
-                                        <div className="team-social-media">
-                                            <a className="fb icon" href="#">
-                                                <i className="fab fa-facebook-f" />
-                                            </a>
-                                            <a className="tw icon" href="#">
-                                                <i className="fab fa-twitter" />
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div className="team-data">
-                                    <div className="team-image">
-                                        <figure>
-                                            <img src="assets/images/team-2.png" alt="team-2" />
-                                        </figure>
-                                    </div>
-                                    <div className="team-info">
-                                        <h3>Alexander</h3>
-                                        <p>Head Railway Construction</p>
-                                        <div className="team-social-media">
-                                            <a className="fb icon" href="#">
-                                                <i className="fab fa-facebook-f" />
-                                            </a>
-                                            <a className="tw icon" href="#">
-                                                <i className="fab fa-twitter" />
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div className="team-data">
-                                    <div className="team-image">
-                                        <figure>
-                                            <img src="assets/images/team-3.png" alt="team-3" />
-                                        </figure>
-                                    </div>
-                                    <div className="team-info">
-                                        <h3>Jose Tyler</h3>
-                                        <p>HR Department</p>
-                                        <div className="team-social-media">
-                                            <a className="fb icon" href="#">
-                                                <i className="fab fa-facebook-f" />
-                                            </a>
-                                            <a className="tw icon" href="#">
-                                                <i className="fab fa-twitter" />
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div className="team-data">
-                                    <div className="team-image">
-                                        <figure>
-                                            <img src="assets/images/team-2.png" alt="team-2" />
-                                        </figure>
-                                    </div>
-                                    <div className="team-info">
-                                        <h3>Henry Vincent</h3>
-                                        <p>Construction Manager</p>
-                                        <div className="team-social-media">
-                                            <a className="fb icon" href="#">
-                                                <i className="fab fa-facebook-f" />
-                                            </a>
-                                            <a className="tw icon" href="#">
-                                                <i className="fab fa-twitter" />
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
+                            <div className="client-slider owl-carousel">
+                                <img className="w-auto m-auto" src="assets/images/client-1.png" alt="client-1" />
+                                <img className="w-auto m-auto" src="assets/images/client-2.png" alt="client-2" />
+                                <img className="w-auto m-auto" src="assets/images/client-3.png" alt="client-3" />
+                                <img className="w-auto m-auto" src="assets/images/client-4.png" alt="client-4" />
+                                <img className="w-auto m-auto" src="assets/images/client-5.png" alt="client-5" />
+                                <img className="w-auto m-auto" src="assets/images/client-1.png" alt="client-1" />
+                                <img className="w-auto m-auto" src="assets/images/client-2.png" alt="client-2" />
                             </div>
                         </div>
                     </div>
                 </div>
-            </section>
-            {/* Team Style One End */}
+            </div>
+            {/* Client Style One End */}
             {/* Core Features Start */}
             <section className="core-features">
                 <div className="container">

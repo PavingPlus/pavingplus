@@ -3,7 +3,7 @@
 .contact-form-2 .info ul li svg,
 .team-detail .team-data .t-tel .data svg,
 .video-play-btn svg {
-    fill: #3cb84a; 
+    fill: #5E873C; 
 }
 
 /*Color*/
@@ -13,7 +13,7 @@
 .what-we-build .wwb-ul li.active:before,
 .w-counter ul li h2,
 .first .nav-tabs li button.active {
-    color: #3cb84a;
+    color: #5E873C;
 }
 
 /*Light bg color*/
@@ -23,7 +23,7 @@ button.scrollTopStick.active,
 .loading-text .letter:nth-child(1)::before,
 .loading-text .letter:nth-child(5)::before
  {
-    background-color: #88fe96;
+    background-color: #c9c9c9;
 }
 
 /*Dark bg color*/
@@ -105,14 +105,17 @@ button.scrollTopStick.active,
 .popups.modal:before,
 .desktop-nav .nav-bar .extras a.pr-cart:before,
 .cart-popup .cart-btns a.checkout,
-.preloader,
 .cart-popup .cart-btns a:hover,
 .mobile-nav.desktop-menu,
 .gallery-style-one a:before,
 .cart .cart-table .c-c .c-data .cr-svg:hover,
 .first .tab-data .map-pin,
 .first .tab-data .map-pin .location {
-    background-color: #3cb84a;
+    background-color: #5E873C;
+}
+
+.preloader{
+    background-color: #ffffff;
 }
 
 /*Border color*/
@@ -160,6 +163,6 @@ textarea:focus-visible,
 .featured-slider-one .owl-nav button.owl-next:before,
 .cart .cart-table .c-c .c-data .cr-svg:hover,
 .first .tab-data .map-pin .location {
-    border-color: #3cb84a;
+    border-color: #5E873C;
 
 }
