@@ -501,7 +501,9 @@ jQuery(document).ready(function ($) {
 });
 
 // Preloader
-$(window).on('load', function () {
-    $("body").addClass("page-loaded");
-    console.log("loaded")
-});
+$(window).on('load', setTimeout(
+    function () {
+        $("body").addClass("page-loaded");
+        console.log("loaded")
+    }, 1000) 
+);
