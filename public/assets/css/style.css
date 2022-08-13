@@ -2508,7 +2508,7 @@ button.scrollTopStick:hover i {
     -moz-transform: translateX(-101%);
     -o-transform: translateX(-101%);
     overflow-y: auto;
-    background: #000;
+    background: #484848;
 }
 .mobile-nav.desktop-menu {
     width: 400px;

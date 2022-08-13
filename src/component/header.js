@@ -15,7 +15,7 @@ export default function header() {
                                             <div className="header-logo">
                                                 <a href="index.html">
                                                     <figure>
-                                                        <img src="assets/images/Builty-Logod.svg" alt="logoo" />
+                                                        <img src="assets/images/Paving-Logo.svg" alt="logoo" />
                                                     </figure>
                                                 </a>
                                             </div>
@@ -77,7 +77,7 @@ export default function header() {
                         <div className="mobile-nav" id="mobile-nav">
                             <div className="res-log">
                                 <a href="index.html">
-                                    <img src="assets/images/Builty-Logo.svg" alt="Responsive Logo" />
+                                    <img src="assets/images/Paving-Logo.svg" alt="Responsive Logo" />
                                 </a>
                             </div>
                             <ul>
