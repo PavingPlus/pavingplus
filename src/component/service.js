@@ -12,12 +12,12 @@ export default function service() {
                                     <div className="svg-icon d-flex-all">
                                         <img src="assets/images/icon-1.svg" alt="Icon" />
                                     </div>
-                                    <h3><a href="service-detail.html">Core Planning</a></h3>
+                                    <h3><a href="/">Core Planning</a></h3>
                                     <p>
                                         Lorem ipsum dolor sit amet, consectne auctor aliquet. Aenean
                                         sollicitudi, lorem bibendum auctor.
                                     </p>
-                                    <a className="icon" href="service-detail.html">
+                                    <a className="icon" href="/">
                                         <i className="fas fa-angle-double-right" />
                                     </a>
                                 </div>
@@ -27,12 +27,12 @@ export default function service() {
                                     <div className="svg-icon d-flex-all">
                                         <img src="assets/images/icon-2.svg" alt="Icon 2" />
                                     </div>
-                                    <h3><a href="service-detail.html">Traditional Designs</a></h3>
+                                    <h3><a href="/">Traditional Designs</a></h3>
                                     <p>
                                         Lorem ipsum dolor sit amet, consectne auctor aliquet. Aenean
                                         sollicitudi, lorem bibendum auctor.
                                     </p>
-                                    <a className="icon" href="service-detail.html">
+                                    <a className="icon" href="/">
                                         <i className="fas fa-angle-double-right" />
                                     </a>
                                 </div>
@@ -42,12 +42,12 @@ export default function service() {
                                     <div className="svg-icon d-flex-all">
                                         <img src="assets/images/icon-3.svg" alt="Icon 3" />
                                     </div>
-                                    <h3><a href="service-detail.html">Quality Materials</a></h3>
+                                    <h3><a href="/">Quality Materials</a></h3>
                                     <p>
                                         Lorem ipsum dolor sit amet, consectne auctor aliquet. Aenean
                                         sollicitudi, lorem bibendum auctor.
                                     </p>
-                                    <a className="icon" href="service-detail.html">
+                                    <a className="icon" href="/">
                                         <i className="fas fa-angle-double-right" />
                                     </a>
                                 </div>

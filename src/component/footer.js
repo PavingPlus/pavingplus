@@ -28,7 +28,7 @@ export default function footer() {
                                         !
                                     </p>
                                 </div>
-                                <a href="contact.html" className="theme-btn">Get a Consultation <i className="fas fa-angle-double-right" /></a>
+                                <a href="/" className="theme-btn">Get a Consultation <i className="fas fa-angle-double-right" /></a>
                             </div>
                         </div>
                     </div>

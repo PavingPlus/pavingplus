@@ -112,7 +112,7 @@ export default function team() {
                                     <figure>
                                         <img src="assets/images/core-feature.jpg" alt="Core Feature Img" />
                                     </figure>
-                                    <a className="video-play-btn" data-fancybox href="https://www.youtube.com/watch?v=uemObN8_dcw">
+                                    <a className="video-play-btn" data-fancybox href="https://www.youtube.com/watch?v=yqWX86uT5jM&ab_channel=Akxsh">
                                         <svg xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" width={35} height={56} viewBox="0 0 35 56">
                                             <defs>
                                                 <clipPath id="clip-video_arrow">
