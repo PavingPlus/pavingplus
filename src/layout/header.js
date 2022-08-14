@@ -13,9 +13,9 @@ export default function header() {
                                     <div className="col-lg-12">
                                         <div className="d-flex-all justify-content-between">
                                             <div className="header-logo">
-                                                <a href="index.html">
-                                                    <figure>
-                                                        <img src="assets/images/Paving-Logo.svg" alt="logoo" />
+                                                <a href="/">
+                                                    <figure >
+                                                        <img  src="assets/images/Paving-Logo1.png" alt="logoo" />
                                                     </figure>
                                                 </a>
                                             </div>
@@ -25,16 +25,16 @@ export default function header() {
                                                         <a href="/">Home</a>
                                                     </li>
                                                     <li>
-                                                        <a href="/">About us</a>
+                                                        <a href="/about">About us</a>
                                                     </li>
                                                     <li>
-                                                        <a href="/">Team</a>
+                                                        <a href="/history">History</a>
                                                     </li>
                                                     <li>
-                                                        <a href="/">Service</a>
+                                                        <a href="/team">Team</a>
                                                     </li>
                                                     <li>
-                                                        <a href="/">Contact</a>
+                                                        <a href="/contact">Contact</a>
                                                     </li>
                                                 </ul>
                                                 <div className="extras">
@@ -77,7 +77,7 @@ export default function header() {
                         <div className="mobile-nav" id="mobile-nav">
                             <div className="res-log">
                                 <a href="index.html">
-                                    <img src="assets/images/Paving-Logo.svg" alt="Responsive Logo" />
+                                    <img src="assets/images/Paving-Logo1.png" alt="Responsive Logo" />
                                 </a>
                             </div>
                             <ul>
@@ -85,16 +85,16 @@ export default function header() {
                                     <a href="/">Home</a>
                                 </li>
                                 <li>
-                                    <a href="/">About us</a>
+                                    <a href="/about">About us</a>
                                 </li>
                                 <li>
-                                    <a href="/">Team</a>
+                                    <a href="/history">History</a>
                                 </li>
                                 <li>
-                                    <a href="/">Service</a>
+                                    <a href="/team">Team</a>
                                 </li>
                                 <li>
-                                    <a href="/">Contact</a>
+                                    <a href="/contact">Contact</a>
                                 </li>
 
                             </ul>
@@ -103,8 +103,8 @@ export default function header() {
                         <div className="mobile-nav desktop-menu">
                             <h2>lorem ipsum dolor sit amet, consectetur adipisicing.</h2>
                             <p className="des">
-                            lorem ipsum dolor sit amet, consectetur adipisicing , sed do eiusmod tempor incididunt ut labore
-                            lorem ipsum dolor sit amet, consectetur adipisicing
+                                lorem ipsum dolor sit amet, consectetur adipisicing , sed do eiusmod tempor incididunt ut labore
+                                lorem ipsum dolor sit amet, consectetur adipisicing
                             </p>
                             <figure>
                                 <img src="assets/images/desktop-menu-img.jpg" alt="Desktop Menu Image" />
@@ -112,7 +112,7 @@ export default function header() {
                             <h3>Get in touch</h3>
                             <p className="num"> +91 88252 17361</p>
                             <p className="adrs">
-                            36/F, Topsia Road, Offbeat CCU, 4th Floor, Room - 405, Kol - 39
+                                36/F, Topsia Road, Offbeat CCU, 4th Floor, Room - 405, Kol - 39
                             </p>
                             <div className="social-medias">
                                 <a href="javascript:void(0)">Facebook</a>

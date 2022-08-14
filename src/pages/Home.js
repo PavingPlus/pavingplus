@@ -1,12 +1,12 @@
 import React from 'react';
-import Header from "../component/header";
-import Silder from '../component/Silder';
-import Services from '../component/service';
-import About from '../component/about';
-import Project from '../component/project';
-import Team from '../component/team';
-import Client from '../component/client';
-import Footer from '../component/footer';
+import Header from "../layout/header";
+import Silder from '../component/Home/Silder';
+import Services from '../component/Home/service';
+import About from '../component/Home/about';
+import Project from '../component/Home/project';
+import Team from '../component/Home/team';
+import Client from '../component/Home/client';
+import Footer from '../layout/footer';
 
 import Logo from '../assets/images/Paving-Logo-Black-Home.svg';
 
@@ -16,7 +16,7 @@ export default function Home() {
             {/* Loader Start */}
             <div className="preloader">
                 <figure>
-                    <img src={Logo} alt=""/>
+                    <img src={Logo} alt="" />
                 </figure>
             </div>
             {/* Loader End */}

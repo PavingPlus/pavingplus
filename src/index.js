@@ -1,12 +1,24 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import App from './App';
+import { BrowserRouter, Routes, Route, } from "react-router-dom";
 
+// Pages
+import Home from './pages/Home'
+import About from './pages/About';
+import Team from './pages/Team';
+import History from './pages/History';
+import Contact from './pages/Contact';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
+  <BrowserRouter>
+    <Routes>
+      <Route path="/" element={<Home />} />
+      <Route path="/about" element={<About />} />
+      <Route path="/team" element={<Team />} />
+      <Route path="/history" element={<History />} />
+      <Route path="/contact" element={<Contact />} />
+    </Routes>
+  </BrowserRouter>
 );
 
