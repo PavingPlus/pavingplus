@@ -1,4 +1,5 @@
 import React from 'react';
+import { Helmet } from 'react-helmet';
 import Header from "../layout/header";
 import Silder from '../component/Home/Silder';
 import Services from '../component/Home/service';
@@ -13,6 +14,10 @@ import Logo from '../assets/images/Paving-Logo-Black-Home.svg';
 export default function Home() {
     return (
         <>
+            <Helmet>
+                <meta charSet="utf-8" />
+                <title>Paving +</title>
+            </Helmet>
             {/* Loader Start */}
             <div className="preloader">
                 <figure>

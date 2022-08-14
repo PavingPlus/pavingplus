@@ -1,4 +1,5 @@
 import React from 'react'
+import { Helmet } from 'react-helmet';
 import Header from '../layout/header';
 import Banner from '../component/About/banner';
 import Start from '../component/About/start';
@@ -10,6 +11,10 @@ import Logo from '../assets/images/Paving-Logo-Black-Home.svg';
 export default function About() {
   return (
     <>
+      <Helmet>
+        <meta charSet="utf-8" />
+        <title>Paving + || About-us</title>
+      </Helmet>
       {/* Loader Start */}
       <div className="preloader">
         <figure>

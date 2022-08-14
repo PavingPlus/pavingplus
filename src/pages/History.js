@@ -1,4 +1,5 @@
 import React from 'react'
+import { Helmet } from 'react-helmet';
 import Header from '../layout/header';
 import Footer from '../layout/footer';
 import Logo from '../assets/images/Paving-Logo-Black-Home.svg';
@@ -6,6 +7,10 @@ import Logo from '../assets/images/Paving-Logo-Black-Home.svg';
 export default function History() {
     return (
         <>
+            <Helmet>
+                <meta charSet="utf-8" />
+                <title>Paving + || History</title>
+            </Helmet>
             {/* Loader Start */}
             <div className="preloader">
                 <figure>
@@ -32,7 +37,7 @@ export default function History() {
                                 <ul>
                                     <li>
                                         <a href="/">
-                                        <i class="fas fa-home"></i>
+                                            <i class="fas fa-home"></i>
                                             <p>Home</p>
                                         </a>
                                     </li>
@@ -127,25 +132,25 @@ export default function History() {
                 {/* History End */}
                 {/* CTA Section Start */}
                 <section className="cta-section">
-                <div className="container">
-                    <div className="row align-items-center">
-                        <div className="col-lg-7">
-                            <div className="cta-data">
-                                <h2>Ready to work together?</h2>
-                                <p>You’re looking for a reliable bricks provider or you’re looking to take the next step in your career, we want to hear from you!</p>
-                                <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#exampleModal" className="theme-btn">Build a Project  <i className="fas fa-angle-double-right" /></a>
+                    <div className="container">
+                        <div className="row align-items-center">
+                            <div className="col-lg-7">
+                                <div className="cta-data">
+                                    <h2>Ready to work together?</h2>
+                                    <p>You’re looking for a reliable bricks provider or you’re looking to take the next step in your career, we want to hear from you!</p>
+                                    <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#exampleModal" className="theme-btn">Build a Project  <i className="fas fa-angle-double-right" /></a>
+                                </div>
                             </div>
-                        </div>
-                        <div className="col-lg-5">
-                            <div className="cta-data">
-                                <figure>
-                                    <img src="assets/images/building-2.png" alt="Building-2 Pic" />
-                                </figure>
+                            <div className="col-lg-5">
+                                <div className="cta-data">
+                                    <figure>
+                                        <img src="assets/images/building-2.png" alt="Building-2 Pic" />
+                                    </figure>
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
-            </section>
+                </section>
                 {/* CTA Section End */}
             </div>
             <Footer />
