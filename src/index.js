@@ -8,6 +8,7 @@ import About from './pages/About';
 import Team from './pages/Team';
 import History from './pages/History';
 import Contact from './pages/Contact';
+import NotFound from './pages/NotFound';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -18,6 +19,7 @@ root.render(
       <Route path="/team" element={<Team />} />
       <Route path="/history" element={<History />} />
       <Route path="/contact" element={<Contact />} />
+      <Route path="*" element={<NotFound />} />
     </Routes>
   </BrowserRouter>
 );
