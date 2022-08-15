@@ -520,7 +520,7 @@ button.scrollTopStick.active:before,
     background: transparent;
     border-left: 0 solid transparent;
     border-right: 30px solid transparent;
-    border-top: 65px solid #41d12e;
+    border-top: 65px solid #3cb84a;
 }
 .desktop-nav .nav-bar .extras .theme-btn.simple:after {
     display: none;
@@ -2593,7 +2593,7 @@ button.scrollTopStick:hover i {
     top: -2px;
     right: -32px;
     border-right: 28px solid transparent;
-    border-top: 60px solid #41d12e;
+    border-top: 60px solid #3cb84a;
 }
 .desktop-nav .nav-bar .extras .theme-btn svg {
     width: 25px;
@@ -2992,7 +2992,7 @@ button.scrollTopStick:hover i {
     color: black;
 }
 .pricing-plans .price-box:hover .theme-btn:after {
-    border-top-color: #41d12e;
+    border-top-color: #3cb84a;
 }
 .pricing-plans .price-img img {
     width: 100%;

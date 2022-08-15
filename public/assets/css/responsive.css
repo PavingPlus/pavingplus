@@ -1443,7 +1443,7 @@
         margin-right: 0;
     }
     .team-detail .team-data .t-tel .theme-btn:after {
-        border-top: 65px solid #ffee02;
+        border-top: 65px solid #3cb84a;
     }
     .cart .cart-table .c-c .c-quality, .cart .cart-table .c-c .c-price, .cart .cart-table .c-c .c-total {
         width: 100%;
@@ -1734,7 +1734,7 @@
         padding: 15px 60px 15px 35px;
     }
     .theme-btn:after {
-        border-top: 59px solid #ffee02;
+        border-top: 59px solid #3cb84a;
     }
     .featured-slider-one .owl-nav {
         position: absolute;
@@ -2533,7 +2533,7 @@
         padding: 13px 55px 13px 25px;
     }
     .theme-btn:after {
-        border-top: 55px solid #ffee02;
+        border-top: 55px solid #3cb84a;
     }
     .theme-btn i:after {
         transform: skew(-28deg, 0deg);

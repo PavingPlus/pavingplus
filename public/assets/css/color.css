@@ -3,7 +3,7 @@
 .contact-form-2 .info ul li svg,
 .team-detail .team-data .t-tel .data svg,
 .video-play-btn svg {
-    fill: #41d12e; 
+    fill: #3cb84a; 
 }
 
 /*Color*/
@@ -13,7 +13,7 @@
 .what-we-build .wwb-ul li.active:before,
 .w-counter ul li h2,
 .first .nav-tabs li button.active {
-    color: #41d12e;
+    color: #3cb84a;
 }
 
 /*Light bg color*/
@@ -23,7 +23,7 @@ button.scrollTopStick.active,
 .loading-text .letter:nth-child(1)::before,
 .loading-text .letter:nth-child(5)::before
  {
-    background-color: #b5fdab;
+    background-color: #b9fab1;
 }
 
 /*Dark bg color*/
@@ -111,7 +111,7 @@ button.scrollTopStick.active,
 .cart .cart-table .c-c .c-data .cr-svg:hover,
 .first .tab-data .map-pin,
 .first .tab-data .map-pin .location {
-    background-color: #41d12e;
+    background-color: #3cb84a;
 }
 
 /*Border color*/
@@ -159,7 +159,7 @@ textarea:focus-visible,
 .featured-slider-one .owl-nav button.owl-next:before,
 .cart .cart-table .c-c .c-data .cr-svg:hover,
 .first .tab-data .map-pin .location {
-    border-color: #41d12e;
+    border-color: #3cb84a;
 }
 .preloader{
     background-color: #ffffff;
