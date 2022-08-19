@@ -47,12 +47,10 @@ export default function teamprofile() {
                                     <i class="fas fa-long-arrow-alt-up"></i>
                                     </a>
                                     <div className="team-social-media">
-                                    <a className="fb icon" href="#">
-                                        <i class="fab fa-facebook-f"></i>
+                                    <a className="fb icon" href="https://www.linkedin.com/in/ranjan-kumar-gupta-502830172/" target="_blank">
+                                        <i class="fab fa-linkedin-in"></i>
                                         </a>
-                                        <a className="tw icon" href="#">
-                                        <i class="fab fa-twitter"></i>
-                                        </a>
+                                       
                                     </div>
                                 </div>
                                 <figure className="team-image">
@@ -85,12 +83,10 @@ export default function teamprofile() {
                                     <i class="fas fa-long-arrow-alt-up"></i>
                                     </a>
                                     <div className="team-social-media">
-                                        <a className="fb icon" href="#">
-                                        <i class="fab fa-facebook-f"></i>
+                                        <a className="fb icon" href="https://www.linkedin.com/in/sheikh-ziaur-rahaman/" target="_blank">
+                                        <i class="fab fa-linkedin-in"></i>
                                         </a>
-                                        <a className="tw icon" href="#">
-                                        <i class="fab fa-twitter"></i>
-                                        </a>
+                                      
                                     </div>
                                 </div>
                                 <figure className="team-image">
@@ -122,14 +118,7 @@ export default function teamprofile() {
                                     <div className="row g-0">
                                         <input type="number" className="form-control" id="exampleInputPassword1" placeholder="Phone No" />
                                     </div>
-                                    <div className="row g-0">
-                                        <select id="inputState-1" className="form-control">
-                                            <option selected>Subject</option>
-                                            <option>Subject 1</option>
-                                            <option>Subject 2</option>
-                                            <option>Subject 3</option>
-                                        </select>
-                                    </div>
+                                    
                                     <div className="row g-0">
                                         <textarea placeholder="Question / Message?" defaultValue={""} />
                                     </div>

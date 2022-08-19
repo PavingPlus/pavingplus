@@ -17,7 +17,7 @@ export default function corevalue() {
                         <ul>
                             <li>
                                 <div className="data">
-                                    <h3>Integrity</h3>
+                                    <h3>Sustainability.</h3>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetLorem ipsum dolor sit amet.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetLorem ipsum dolor sit amet.</p>
                                 </div>
                                 <div className="image">
@@ -33,19 +33,30 @@ export default function corevalue() {
                                     </figure>
                                 </div>
                                 <div className="data">
-                                    <h3>Responsibility</h3>
+                                    <h3>Green tech.</h3>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetLorem ipsum dolor sit amet.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetLorem ipsum dolor sit amet.</p>
                                 </div>
                             </li>
                             <li>
                                 <div className="data">
-                                    <h3>Accountability</h3>
+                                    <h3>Manufacturing eco friendly construction materials.</h3>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetLorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetLorem ipsum dolor sit amet.</p>
                                 </div>
                                 <div className="image">
                                     <figure>
                                         <img className="w-100" src="assets/images/c-v-img-1.jpg" alt="Core Values Image 1" />
                                     </figure>
+                                </div>
+                            </li>
+                            <li>
+                                <div className="image">
+                                    <figure>
+                                        <img className="w-100" src="assets/images/c-v-img-1.jpg" alt="Core Values Image 1" />
+                                    </figure>
+                                </div>
+                                <div className="data">
+                                    <h3>Upcycling plastic.</h3>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetLorem ipsum dolor sit amet.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetLorem ipsum dolor sit amet.</p>
                                 </div>
                             </li>
                         </ul>

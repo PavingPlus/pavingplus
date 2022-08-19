@@ -7,7 +7,7 @@ export default function start() {
                 <div className="container">
                     <div className="row">
 
-                        <h2>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectet</h2>
+                        <h2>Paving+ has emerged as an idea to upcycle plastic in a sustainable fashion.</h2>
                     </div>
                 </div>
                 <div className="container">
@@ -16,7 +16,7 @@ export default function start() {
                             <div className="who-we-are">
                                 <div>
                                     <h3>Who We Are?</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetLorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetLorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetLorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetLorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetLorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet,</p>
+                                    <p>By creating products out of plastic waste and industrial waste, Paving +, a startup with roots in Kolkata and founded in 2018 by Ranjan Kumar Gupata and Sheikh Ziaur Rahaman, aims to provide creative and sustainable solutions to the global waste pandemic. Milk pouches, PET bottles, and other plastic waste are used in the production of goods like bricks, paver blocks, tiles, planters, benches, kerbstones, and many more. We covered a long way with 6+ research papers published and transforming an initial idea into a business intended to cross 20 million.We have also set a benchmark by fostering a long-term relationship in flagship Government projects .</p>
                                 </div>
                                 <figure>
                                     <img className="w-100" src="assets/images/about-d-1.jpg" alt="About Image One" />
@@ -28,11 +28,11 @@ export default function start() {
                                 <div>
                                     <h3>What's in it for me?</h3>
                                     <ul>
-                                        <li><i className="fa-solid fa-circle-dot" /> High performing, low carbon concrete solution</li>
-                                        <li><i className="fa-solid fa-circle-dot" /> Value for workers' skills</li>
-                                        <li><i className="fa-solid fa-circle-dot" /> Excellent standards in construction</li>
-                                        <li><i className="fa-solid fa-circle-dot" /> An inclusive industry</li>
-                                        <li><i className="fa-solid fa-circle-dot" /> Don't take our word for it</li>
+                                        <li><i class="far fa-dot-circle"></i> High performing, low carbon concrete solution</li>
+                                        <li><i class="far fa-dot-circle"></i> Value for workers' skills</li>
+                                        <li><i class="far fa-dot-circle"></i> Excellent standards in construction</li>
+                                        <li><i class="far fa-dot-circle"></i> An inclusive industry</li>
+                                        <li><i class="far fa-dot-circle"></i> Don't take our word for it</li>
                                     </ul>
                                 </div>
                                 <figure>

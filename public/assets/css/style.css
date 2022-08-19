@@ -1541,7 +1541,7 @@ button.scrollTopStick:hover i {
     visibility: visible;
 }
 .featured-slider-one .owl-item.active .f-slider-one-data h1 {
-    font-size: 70px;
+    font-size: 60px;
     line-height: 80px;
     color: white;
     margin-bottom: 10px;

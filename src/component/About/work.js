@@ -10,7 +10,7 @@ export default function work() {
                         <img src="assets/images/heading-icon.png" alt="Heading Icon" />
                     </figure>
                     <span>Plan + Control</span>
-                    <h2>How it Works</h2>
+                    <h2>How We Works</h2>
                 </div>
                 <div className="container">
                     <figure style={{ position: 'relative', zIndex: 9 }}>
@@ -19,42 +19,29 @@ export default function work() {
                 </div>
                 <div className="container">
                     <div className="row g-0">
-                        <div className="col-lg-3 col-md-6 col-sm-12">
+                        <div className="col-lg-6 col-md-4 col-sm-6">
                             <div className="plans">
                                 <div className="y-box d-flex-all">
                                     1.
                                 </div>
-                                <h3>Phase Plan</h3>
-                                <p>This step connects the design process and its miles tones with construction.</p>
+                                <h3>Non- Heating Process</h3>
+                                <p>In the Non-heating process, unsegregated waste plastic is upcycled with other
+                                    raw materials to make Alternate construction materials. More than 30% of
+                                    waste plastics are upcycled in this process.</p>
                             </div>
                         </div>
-                        <div className="col-lg-3 col-md-6 col-sm-12">
+                        <div className="col-lg-6 col-md-4 col-sm-6">
                             <div className="plans">
                                 <div className="y-box d-flex-all">
                                     2.
                                 </div>
-                                <h3>Design Pull Plan</h3>
-                                <p>We work with the design team to establish a detailed plan for reaching our goals.</p>
+                                <h3>Heating Process (Patented)</h3>
+                                <p>In Heating Process, Unsegregated waste plastics are recycled and converted
+                                    into Alternate Construction Materials. More than 90% of waste plastics
+                                    constitute the product and 10% other materials.</p>
                             </div>
                         </div>
-                        <div className="col-lg-3 col-md-6 col-sm-12">
-                            <div className="plans">
-                                <div className="y-box d-flex-all">
-                                    3.
-                                </div>
-                                <h3>Coordinated Layout</h3>
-                                <p>This process creates a single point of truth: coordinated drawings all project.</p>
-                            </div>
-                        </div>
-                        <div className="col-lg-3 col-md-6 col-sm-12">
-                            <div className="plans">
-                                <div className="y-box d-flex-all">
-                                    4.
-                                </div>
-                                <h3>Quality Control</h3>
-                                <p>Having geometry worked out in the Coordinated Layout step, prior to construction.</p>
-                            </div>
-                        </div>
+
                     </div>
                 </div>
             </section>
@@ -74,22 +61,22 @@ export default function work() {
                             <div className="data">
                                 <h2>Key Benefits</h2>
                                 <ul>
-                                    
+
                                     <li>
                                         <i class="fas fa-check"></i>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetLorem ipsum dolor sit amet. </p>
+                                        <p>We transform the plastic which contributes to degrade our environment into useful construction materials. </p>
                                     </li>
                                     <li>
                                         <i class="fas fa-check"></i>
-                                        <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetLorem ipsum dolor sit amet.</p>
+                                        <p>We are eliminating the hazardous brick making industries into a more channelised and organised firms with new solutions and machine oriented works.</p>
                                     </li>
                                     <li>
                                         <i class="fas fa-check"></i>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetLorem ipsum dolor sit amet.</p>
+                                        <p>We are 100% made by recycling the waste material to consume huge amount of municipal and industrial waste with zero residue and low carbon emission.</p>
                                     </li>
                                     <li>
                                         <i class="fas fa-check"></i>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetLorem ipsum dolor sit amet.</p>
+                                        <p>We also emphasis on fashionable and durable products for our consumers</p>
                                     </li>
                                 </ul>
                             </div>

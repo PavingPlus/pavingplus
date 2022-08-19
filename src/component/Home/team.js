@@ -66,9 +66,7 @@ export default function team() {
                                         <div id="collapseTwo" className="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                             <div className="accordion-body">
                                                 <p>
-                                                    Early engagement reduces project uncertainties through
-                                                    comprehensi scope definition and systems optimisation.
-                                                    The earlier you bring DES on board for your project.
+                                                Our objective is not just business but to build a strong relationship with our customers build on trust ,we aim to provide our customers with the best products.
                                                 </p>
                                             </div>
                                         </div>
@@ -82,9 +80,7 @@ export default function team() {
                                         <div id="collapseThree" className="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                             <div className="accordion-body">
                                                 <p>
-                                                    Early engagement reduces project uncertainties through
-                                                    comprehensi scope definition and systems optimisation.
-                                                    The earlier you bring DES on board for your project.
+                                                Our objective is to recycle plastics and transform them into sustainable products and construction materials according to today's need .The goal is to achieve sustainability as well as serve with good and fashionable products
                                                 </p>
                                             </div>
                                         </div>
@@ -97,9 +93,7 @@ export default function team() {
                                         </h2>
                                         <div id="collapseFour" className="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                             <div className="accordion-body">
-                                                Early engagement reduces project uncertainties through
-                                                comprehensi scope definition and systems optimisation. The
-                                                earlier you bring DES on board for your project.
+                                            We strive to achieve solutions for major concerns related to plastics and recycling plastics and redefining the plastic by making them usable
                                             </div>
                                         </div>
                                     </div>

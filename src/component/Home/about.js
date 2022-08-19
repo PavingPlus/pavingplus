@@ -20,10 +20,11 @@ export default function about() {
                         <div className="col-lg-6">
                             <div className="about-data-right">
                                 <span>Welcome to Our Company</span>
-                                <h2>Paving+ Provides a full range of Brick</h2>
+                                <h2>Paving+ provides a full range of plastic bricks etc.</h2>
                                 <div className="about-info">
                                     <p>
-                                        lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitationem   eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitationem eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                                    Paving +, A Kolkata based startup, formed in 2018, by Ranjan Kumar Gupata and Sheikh Ziaur Rahaman aims to provide innovative and sustainable solutions to the global waste pandemic by manufacturing products from plastic waste and industrial waste.
+We covered a long way with 6+ research papers published and transforming an initial idea into a business intended to cross 20 million.We have also set a benchmark by fostering a long-term relationship in flagship Government projects.
                                     </p>
                                     <figure>
                                         <img src="assets/images/signature.png" alt="Signature" />

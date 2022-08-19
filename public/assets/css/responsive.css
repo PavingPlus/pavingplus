@@ -16,7 +16,7 @@
 }
 @media(max-width: 1600px) {
     .featured-slider-one .owl-item.active .f-slider-one-data h1 {
-        font-size: 67px;
+        font-size: 60px;
         line-height: 87px;
     }
     .featured-slider-one .owl-item.active .f-slider-one-data p {
@@ -775,7 +775,7 @@
         left: 5%;
     }
     .featured-slider-one .owl-item.active .f-slider-one-data h1 {
-        font-size: 50px;
+        font-size: 40px;
         line-height: 60px;
     }
     .featured-slider-one .owl-item.active .f-slider-one-data p,

@@ -40,7 +40,7 @@ export default function footer() {
                                 <div className="footer-col">
                                     <h3>Information</h3>
                                     <p>
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat itaque quia voluptatem ea odit alias aut exercitationem maiores fugit except.
+                                    Our objective is to recycle plastics and transform them into sustainable products and construction materials according to today's need .The goal is to achieve sustainability as well as serve with good and fashionable products.
                                     </p>
                                 </div>
                             </div>

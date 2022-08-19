@@ -101,11 +101,9 @@ export default function header() {
                             <a href="JavaScript:void(0)" id="res-cross" />
                         </div>
                         <div className="mobile-nav desktop-menu">
-                            <h2>lorem ipsum dolor sit amet, consectetur adipisicing.</h2>
+                            <h2>The sustainable upcycling of plastic using Paving+</h2>
                             <p className="des">
-                                lorem ipsum dolor sit amet, consectetur adipisicing , sed do eiusmod tempor incididunt ut labore
-                                lorem ipsum dolor sit amet, consectetur adipisicing
-                            </p>
+                            With the publication of more than six research papers and the development of a business that aims to reach 20 million customers, we have come a long way. </p>
                             <figure>
                                 <img src="assets/images/desktop-menu-img.jpg" alt="Desktop Menu Image" />
                             </figure>
