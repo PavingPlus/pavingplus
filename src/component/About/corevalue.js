@@ -18,7 +18,10 @@ export default function corevalue() {
                             <li>
                                 <div className="data">
                                     <h3>Sustainability.</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetLorem ipsum dolor sit amet.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetLorem ipsum dolor sit amet.</p>
+                                    <p>We are utilizing plastic to make alternate construction materials. This is one of the
+                                        best way to solve the problem because plastic cannot be decomposed and burning it
+                                        will cause air pollution. We are disintegrating plastics into small bits and upcycling it to
+                                        create sustainable construction materials.</p>
                                 </div>
                                 <div className="image">
                                     <figure>
@@ -34,13 +37,13 @@ export default function corevalue() {
                                 </div>
                                 <div className="data">
                                     <h3>Green tech.</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetLorem ipsum dolor sit amet.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetLorem ipsum dolor sit amet.</p>
+                                    <p>We use technology to make use of unsegregated waste plastic to use it as an alternate construction material.</p>
                                 </div>
                             </li>
                             <li>
                                 <div className="data">
                                     <h3>Manufacturing eco friendly construction materials.</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetLorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetLorem ipsum dolor sit amet.</p>
+                                    <p>We are made entirely of recycled waste material, allowing us to consume massive amounts of municipal and industrial waste with zero residue and low carbon emissions.</p>
                                 </div>
                                 <div className="image">
                                     <figure>
@@ -56,7 +59,7 @@ export default function corevalue() {
                                 </div>
                                 <div className="data">
                                     <h3>Upcycling plastic.</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetLorem ipsum dolor sit amet.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetLorem ipsum dolor sit amet.</p>
+                                    <p>We are recyclable; even after demolishing your structure, we can recycle Wricks demolition waste into new reusable Bricks, reducing the amount of waste generated.</p>
                                 </div>
                             </li>
                         </ul>

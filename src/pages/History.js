@@ -27,7 +27,7 @@ export default function History() {
                         <div className="row">
                             <div className="banner-details">
                                 <h2>History</h2>
-                                <p>our values and vaulted us to the top of our industry.</p>
+                                {/* <p>our values and vaulted us to the top of our industry.</p> */}
                             </div>
                         </div>
                     </div>
@@ -67,8 +67,9 @@ export default function History() {
                                     <figure>
                                         <img src="assets/images/history-img-1.jpg" alt="History Image One" />
                                     </figure>
-                                    <h2>1982</h2>
-                                    <p><span>Thomas Willimes starts the company,</span> managing construction of our first office building in Chelsea, Mass.</p>
+                                    <h2>2018</h2>
+                                    <p>The inception of <span>the idea of Paving+,</span> was basically to upcycle plastic in a sustainable fashion. 
+The foundation brewed in the mind of our CEO who was then in his graduation days. </p>
                                 </div>
                             </div>
                         </div>
@@ -78,8 +79,8 @@ export default function History() {
                                     <figure>
                                         <img src="assets/images/history-img-2.jpg" alt="History Image Two" />
                                     </figure>
-                                    <h2>1994</h2>
-                                    <p>Our company embraces snowbird status and expands to West Palm Beach—our first office outside New England.</p>
+                                    <h2>2019 - 2020</h2>
+                                    <p>It took a couple of years for him to make this product live and test it's viability in the construction industry.</p>
                                 </div>
                             </div>
                         </div>
@@ -89,41 +90,20 @@ export default function History() {
                                     <figure>
                                         <img src="assets/images/history-img-6.jpg" alt="History Image Six" />
                                     </figure>
-                                    <h2>2004</h2>
-                                    <p>The Career Start program officially launches, recruiting college graduates into robust construction training rotations.</p>
+                                    <h2>2021-2022</h2>
+                                    <p>In is the period were the Business is really blooming for Paving+ with our patents being granted, over 6+ research papers published and a cracker of founding team catering the best to the mammoth of constructions across East India. </p>
                                 </div>
                             </div>
                         </div>
-                        <div className="row right">
-                            <div className="col-lg-5 offset-lg-7">
-                                <div className="h-box">
-                                    <figure>
-                                        <img src="assets/images/history-img-3.jpg" alt="History Image Three" />
-                                    </figure>
-                                    <h2>2010</h2>
-                                    <p>Certified firms to learn our approach, make connections, and grow their businesses.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div className="row left">
-                            <div className="col-lg-5">
-                                <div className="h-box">
-                                    <figure>
-                                        <img src="assets/images/history-img-4.jpg" alt="History Image Four" />
-                                    </figure>
-                                    <h2>2017</h2>
-                                    <p>starts Safer Together, our safety program that emphasizes people and teamwork.</p>
-                                </div>
-                            </div>
-                        </div>
+                      
                         <div className="row right">
                             <div className="col-lg-5 offset-lg-7">
                                 <div className="h-box">
                                     <figure>
                                         <img src="assets/images/history-img-5.jpg" alt="History Image Five" />
                                     </figure>
-                                    <h2>2021</h2>
-                                    <p>highly collaborative design-build process that is revolutionizing the real estate development lifecycle</p>
+                                    <h2>2022-2023</h2>
+                                    <p>In the upcoming business quarters of 2022-23 Paving+ is looking to garner a business of over 20 million. Another feather in the cap will be fostering a longterm relationship in flagship Government projects, talks of which have already been initiated.</p>
                                 </div>
                             </div>
                         </div>

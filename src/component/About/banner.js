@@ -10,7 +10,7 @@ export default function banner() {
                     <div className="row">
                         <div className="banner-details">
                             <h2>About Us</h2>
-                            <p>our values and vaulted us to the top of our industry.</p>
+                            {/* <p>our values and vaulted us to the top of our industry.</p> */}
                         </div>
                     </div>
                 </div>

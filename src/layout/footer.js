@@ -17,10 +17,10 @@ export default function footer() {
                                 <div className="contact-info d-flex-all">
                                     <div className="images d-flex-all justify-content-start">
                                         <figure>
-                                            <img src="assets/images/blog-author-img.jpg" alt="Contact Images" />
+                                            <img src="assets/images/blog-author-img.png" alt="Contact Images" />
                                         </figure>
                                         <figure>
-                                            <img src="assets/images/blog-author-img-2.jpg" alt="Contact Images" />
+                                            <img src="assets/images/blog-author-img-2.png" alt="Contact Images" />
                                         </figure>
                                     </div>
                                     <p>

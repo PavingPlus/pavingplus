@@ -6356,7 +6356,7 @@ ul.pd-price li:not(:last-child){
 }
 #timeline {
     width: 15px;
-    height: 89.5%;
+    height: 84%;
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
@@ -6366,10 +6366,10 @@ ul.pd-price li:not(:last-child){
     overflow: hidden;
 }
 #timeline .fill {
-    -webkit-transition: height 2s ease-out;
-    -moz-transition: height 2s ease-out;
-    -o-transition: height 2s ease-out;
-    transition: height 2s ease-out;
+    -webkit-transition: height 4s ease-out;
+    -moz-transition: height 4s ease-out;
+    -o-transition: height 4s ease-out;
+    transition: height 4s ease-out;
 }
 /* 56. History End */
 

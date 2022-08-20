@@ -54,7 +54,7 @@ export default function teamprofile() {
                                     </div>
                                 </div>
                                 <figure className="team-image">
-                                    <img src="assets/images/team-4.jpg" alt="Team Image 1" />
+                                    <img src="assets/images/team-1.png" alt="Team Image 1" />
                                 </figure>
                             </div>
                         </div>
@@ -90,7 +90,7 @@ export default function teamprofile() {
                                     </div>
                                 </div>
                                 <figure className="team-image">
-                                    <img src="assets/images/team-5.jpg" alt="Team Image 2" />
+                                    <img src="assets/images/team-2.png" alt="Team Image 2" />
                                 </figure>
                             </div>
                         </div>
