@@ -47,7 +47,6 @@ export default function Home() {
             <About />
             <Project />
             <Team />
-
             <Footer />
             <Popup/>
 

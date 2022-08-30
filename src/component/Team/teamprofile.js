@@ -14,7 +14,7 @@ const Teamprofile = () => {
         if (!fullName || !email || !number || !question ) {
             alert("Please fill all provided fields!")
         } else {
-            fetch("https://paving-backend.herokuapp.com/team/send-mail", {
+            fetch("https://paving-plus-backend.herokuapp.com/team/send-mail", {
                 method: "POST",
                 headers: {
                     "Content-Type": "application/json",

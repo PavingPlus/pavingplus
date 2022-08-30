@@ -15,7 +15,7 @@ const Popup = () => {
         if (!fullName || !email || !number || !subject || !question ) {
             alert("Please fill all provided fields!")
         } else {
-            fetch("https://paving-backend.herokuapp.com/popup/send-mail", {
+            fetch("https://paving-plus-backend.herokuapp.com/popup/send-mail", {
                 method: "POST",
                 headers: {
                     "Content-Type": "application/json",

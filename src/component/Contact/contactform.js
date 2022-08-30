@@ -15,7 +15,7 @@ const Content = () => {
         if (!question || !fullName || !email || !subject) {
             alert("Please fill all provided fields!")
         } else {
-            fetch("https://paving-backend.herokuapp.com/contact/send-mail", {
+            fetch("https://paving-plus-backend.herokuapp.com/contact/send-mail", {
                 method: "POST",
                 headers: {
                     "Content-Type": "application/json",

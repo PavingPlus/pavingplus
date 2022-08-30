@@ -8,8 +8,22 @@ export default function History() {
     return (
         <>
             <Helmet>
-                <meta charSet="utf-8" />
-                <title>Paving + || History</title>
+            <meta charSet="utf-8" />
+            {/* Primary Meta Tags */} 
+            <title> Paving+ || History</title>
+            <meta name="title" content=" Paving+ || History" />
+            <meta name="description" content="Paving+ uses eco-friendly and sustainable technology to create damp-proof and lightweight bricks and paver blocks. Paving + products are entirely composed of recycled plastic trash and industrial waste." />
+            {/* Open Graph / Facebook */} 
+            <meta property="og:type" content="website" />
+            <meta property="og:url" content="https://paving-plus.com/" />
+            <meta property="og:title" content=" Paving+ || Building Green Construction Solutions" />
+            <meta property="og:description" content="Paving+ uses eco-friendly and sustainable technology to create damp-proof and lightweight bricks and paver blocks. Paving + products are entirely composed of recycled plastic trash and industrial waste." />
+            <meta property="og:image" content="../assets/images/meta.png" />
+            {/* Twitter */}
+            <meta property="twitter:card" content="summary_large_image" />
+            <meta property="twitter:url" content="https://paving-plus.com/" />
+            <meta property="twitter:title" content=" Paving+ || Building Green Construction Solutions" />
+            <meta property="twitter:description" content="Paving+ uses eco-friendly and sustainable technology to create damp-proof and lightweight bricks and paver blocks. Paving + products are entirely composed of recycled plastic trash and industrial waste." />
             </Helmet>
             {/* Loader Start */}
             <div className="preloader">
